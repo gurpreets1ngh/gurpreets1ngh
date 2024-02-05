@@ -8,7 +8,7 @@ I LOVE CSS
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [guritgh@gmail.com](mailto:guritgh@gmail.com)
-* 🧠  I'm learning PHP
+* 🧠  I'm learning React and Wordpress
 
 ### Skills
 
